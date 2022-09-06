@@ -1,3 +1,6 @@
+This Project is not owned by me and is not original. It was something I did in terms of learning.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
